@@ -5,7 +5,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 The goal for the Udacity Path Planning Project is to write code that allows a vehicle to navigate a simulated highway scenario for 4.23 miles while not exceeding maximum values for velocity, acceleration, and jerk as well as avoiding collisions with other vehicles and remaining in its lane. The project provides way points that denote the center lane line of the highway and functions to switch between a global frame of reference and a frenet frame of reference. The vehciles that spawn on the track occur in a random manner and can range in behavior from normal to eratic necesitating a robust algorithm for the host vehicle.
 
-![Distance Without Incident](img/DistanceWithoutIncident.png)
+![Distance Without Incident](img/DistanceWithoutIncident_2.PNG)
 
 ### State Machine
 
